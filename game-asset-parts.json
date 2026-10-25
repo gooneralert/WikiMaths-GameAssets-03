@@ -1,0 +1,481 @@
+{
+  "files/__external__/SomeRandomFella/portsandrips@master/AgesOfConflict/Build/AgesOfConflict.data": {
+    "size": 60349115,
+    "parts": [
+      {
+        "path": "files/__external__/SomeRandomFella/portsandrips@master/AgesOfConflict/Build/AgesOfConflict.data.part001",
+        "size": 19922944
+      },
+      {
+        "path": "files/__external__/SomeRandomFella/portsandrips@master/AgesOfConflict/Build/AgesOfConflict.data.part002",
+        "size": 19922944
+      },
+      {
+        "path": "files/__external__/SomeRandomFella/portsandrips@master/AgesOfConflict/Build/AgesOfConflict.data.part003",
+        "size": 19922944
+      },
+      {
+        "path": "files/__external__/SomeRandomFella/portsandrips@master/AgesOfConflict/Build/AgesOfConflict.data.part004",
+        "size": 580283
+      }
+    ]
+  },
+  "files/__external__/SomeRandomFella/portsandrips@master/AgesOfConflict/Build/AgesOfConflict.wasm": {
+    "size": 66260010,
+    "parts": [
+      {
+        "path": "files/__external__/SomeRandomFella/portsandrips@master/AgesOfConflict/Build/AgesOfConflict.wasm.part001",
+        "size": 19922944
+      },
+      {
+        "path": "files/__external__/SomeRandomFella/portsandrips@master/AgesOfConflict/Build/AgesOfConflict.wasm.part002",
+        "size": 19922944
+      },
+      {
+        "path": "files/__external__/SomeRandomFella/portsandrips@master/AgesOfConflict/Build/AgesOfConflict.wasm.part003",
+        "size": 19922944
+      },
+      {
+        "path": "files/__external__/SomeRandomFella/portsandrips@master/AgesOfConflict/Build/AgesOfConflict.wasm.part004",
+        "size": 6491178
+      }
+    ]
+  },
+  "files/__external__/SomeRandomFella/portsandrips@master/AgesOfConflict2/Build/AgesOfConflict.data": {
+    "size": 60349115,
+    "parts": [
+      {
+        "path": "files/__external__/SomeRandomFella/portsandrips@master/AgesOfConflict2/Build/AgesOfConflict.data.part001",
+        "size": 19922944
+      },
+      {
+        "path": "files/__external__/SomeRandomFella/portsandrips@master/AgesOfConflict2/Build/AgesOfConflict.data.part002",
+        "size": 19922944
+      },
+      {
+        "path": "files/__external__/SomeRandomFella/portsandrips@master/AgesOfConflict2/Build/AgesOfConflict.data.part003",
+        "size": 19922944
+      },
+      {
+        "path": "files/__external__/SomeRandomFella/portsandrips@master/AgesOfConflict2/Build/AgesOfConflict.data.part004",
+        "size": 580283
+      }
+    ]
+  },
+  "files/__external__/SomeRandomFella/portsandrips@master/AgesOfConflict2/Build/AgesOfConflict.wasm": {
+    "size": 66260010,
+    "parts": [
+      {
+        "path": "files/__external__/SomeRandomFella/portsandrips@master/AgesOfConflict2/Build/AgesOfConflict.wasm.part001",
+        "size": 19922944
+      },
+      {
+        "path": "files/__external__/SomeRandomFella/portsandrips@master/AgesOfConflict2/Build/AgesOfConflict.wasm.part002",
+        "size": 19922944
+      },
+      {
+        "path": "files/__external__/SomeRandomFella/portsandrips@master/AgesOfConflict2/Build/AgesOfConflict.wasm.part003",
+        "size": 19922944
+      },
+      {
+        "path": "files/__external__/SomeRandomFella/portsandrips@master/AgesOfConflict2/Build/AgesOfConflict.wasm.part004",
+        "size": 6491178
+      }
+    ]
+  },
+  "files/__external__/SomeRandomFella/portsandrips@master/blockblast-port/play/game.love": {
+    "size": 98169257,
+    "parts": [
+      {
+        "path": "files/__external__/SomeRandomFella/portsandrips@master/blockblast-port/play/game.love.part001",
+        "size": 19922944
+      },
+      {
+        "path": "files/__external__/SomeRandomFella/portsandrips@master/blockblast-port/play/game.love.part002",
+        "size": 19922944
+      },
+      {
+        "path": "files/__external__/SomeRandomFella/portsandrips@master/blockblast-port/play/game.love.part003",
+        "size": 19922944
+      },
+      {
+        "path": "files/__external__/SomeRandomFella/portsandrips@master/blockblast-port/play/game.love.part004",
+        "size": 19922944
+      },
+      {
+        "path": "files/__external__/SomeRandomFella/portsandrips@master/blockblast-port/play/game.love.part005",
+        "size": 18477481
+      }
+    ]
+  },
+  "files/__external__/SomeRandomFella/portsandrips@master/boilnoodles/Build/WebGLBuild.wasm": {
+    "size": 23438567,
+    "parts": [
+      {
+        "path": "files/__external__/SomeRandomFella/portsandrips@master/boilnoodles/Build/WebGLBuild.wasm.part001",
+        "size": 19922944
+      },
+      {
+        "path": "files/__external__/SomeRandomFella/portsandrips@master/boilnoodles/Build/WebGLBuild.wasm.part002",
+        "size": 3515623
+      }
+    ]
+  },
+  "files/__external__/SomeRandomFella/portsandrips@master/CheeseRollingWeb/Build/CheeseRollingWeb.data": {
+    "size": 99287556,
+    "parts": [
+      {
+        "path": "files/__external__/SomeRandomFella/portsandrips@master/CheeseRollingWeb/Build/CheeseRollingWeb.data.part001",
+        "size": 19922944
+      },
+      {
+        "path": "files/__external__/SomeRandomFella/portsandrips@master/CheeseRollingWeb/Build/CheeseRollingWeb.data.part002",
+        "size": 19922944
+      },
+      {
+        "path": "files/__external__/SomeRandomFella/portsandrips@master/CheeseRollingWeb/Build/CheeseRollingWeb.data.part003",
+        "size": 19922944
+      },
+      {
+        "path": "files/__external__/SomeRandomFella/portsandrips@master/CheeseRollingWeb/Build/CheeseRollingWeb.data.part004",
+        "size": 19922944
+      },
+      {
+        "path": "files/__external__/SomeRandomFella/portsandrips@master/CheeseRollingWeb/Build/CheeseRollingWeb.data.part005",
+        "size": 19595780
+      }
+    ]
+  },
+  "files/__external__/SomeRandomFella/portsandrips@master/CheeseRollingWeb/Build/CheeseRollingWeb.wasm": {
+    "size": 29817903,
+    "parts": [
+      {
+        "path": "files/__external__/SomeRandomFella/portsandrips@master/CheeseRollingWeb/Build/CheeseRollingWeb.wasm.part001",
+        "size": 19922944
+      },
+      {
+        "path": "files/__external__/SomeRandomFella/portsandrips@master/CheeseRollingWeb/Build/CheeseRollingWeb.wasm.part002",
+        "size": 9894959
+      }
+    ]
+  },
+  "files/__external__/wasmdotrip/Peak-Port@main/Build/WebGL.data.unityweb": {
+    "size": 222608952,
+    "parts": [
+      {
+        "path": "files/__external__/wasmdotrip/Peak-Port@main/Build/WebGL.data.unityweb.part001",
+        "size": 19000000
+      },
+      {
+        "path": "files/__external__/wasmdotrip/Peak-Port@main/Build/WebGL.data.unityweb.part002",
+        "size": 19000000
+      },
+      {
+        "path": "files/__external__/wasmdotrip/Peak-Port@main/Build/WebGL.data.unityweb.part003",
+        "size": 19000000
+      },
+      {
+        "path": "files/__external__/wasmdotrip/Peak-Port@main/Build/WebGL.data.unityweb.part004",
+        "size": 19000000
+      },
+      {
+        "path": "files/__external__/wasmdotrip/Peak-Port@main/Build/WebGL.data.unityweb.part005",
+        "size": 19000000
+      },
+      {
+        "path": "files/__external__/wasmdotrip/Peak-Port@main/Build/WebGL.data.unityweb.part006",
+        "size": 19000000
+      },
+      {
+        "path": "files/__external__/wasmdotrip/Peak-Port@main/Build/WebGL.data.unityweb.part007",
+        "size": 19000000
+      },
+      {
+        "path": "files/__external__/wasmdotrip/Peak-Port@main/Build/WebGL.data.unityweb.part008",
+        "size": 19000000
+      },
+      {
+        "path": "files/__external__/wasmdotrip/Peak-Port@main/Build/WebGL.data.unityweb.part009",
+        "size": 19000000
+      },
+      {
+        "path": "files/__external__/wasmdotrip/Peak-Port@main/Build/WebGL.data.unityweb.part010",
+        "size": 19000000
+      },
+      {
+        "path": "files/__external__/wasmdotrip/Peak-Port@main/Build/WebGL.data.unityweb.part011",
+        "size": 19000000
+      },
+      {
+        "path": "files/__external__/wasmdotrip/Peak-Port@main/Build/WebGL.data.unityweb.part012",
+        "size": 13608952
+      }
+    ]
+  },
+  "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/level_0.bundle": {
+    "size": 20334447,
+    "parts": [
+      {
+        "path": "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/level_0.bundle.part001",
+        "size": 19000000
+      },
+      {
+        "path": "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/level_0.bundle.part002",
+        "size": 1334447
+      }
+    ]
+  },
+  "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/level_1.bundle": {
+    "size": 17876140,
+    "parts": [
+      {
+        "path": "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/level_1.bundle.part001",
+        "size": 17876140
+      }
+    ]
+  },
+  "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/level_10.bundle": {
+    "size": 17292055,
+    "parts": [
+      {
+        "path": "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/level_10.bundle.part001",
+        "size": 17292055
+      }
+    ]
+  },
+  "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/level_11.bundle": {
+    "size": 19760072,
+    "parts": [
+      {
+        "path": "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/level_11.bundle.part001",
+        "size": 19000000
+      },
+      {
+        "path": "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/level_11.bundle.part002",
+        "size": 760072
+      }
+    ]
+  },
+  "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/level_12.bundle": {
+    "size": 16894452,
+    "parts": [
+      {
+        "path": "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/level_12.bundle.part001",
+        "size": 16894452
+      }
+    ]
+  },
+  "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/level_13.bundle": {
+    "size": 19891207,
+    "parts": [
+      {
+        "path": "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/level_13.bundle.part001",
+        "size": 19000000
+      },
+      {
+        "path": "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/level_13.bundle.part002",
+        "size": 891207
+      }
+    ]
+  },
+  "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/level_14.bundle": {
+    "size": 18574753,
+    "parts": [
+      {
+        "path": "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/level_14.bundle.part001",
+        "size": 18574753
+      }
+    ]
+  },
+  "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/level_15.bundle": {
+    "size": 16879391,
+    "parts": [
+      {
+        "path": "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/level_15.bundle.part001",
+        "size": 16879391
+      }
+    ]
+  },
+  "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/level_16.bundle": {
+    "size": 18429651,
+    "parts": [
+      {
+        "path": "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/level_16.bundle.part001",
+        "size": 18429651
+      }
+    ]
+  },
+  "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/level_17.bundle": {
+    "size": 18058537,
+    "parts": [
+      {
+        "path": "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/level_17.bundle.part001",
+        "size": 18058537
+      }
+    ]
+  },
+  "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/level_18.bundle": {
+    "size": 17014565,
+    "parts": [
+      {
+        "path": "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/level_18.bundle.part001",
+        "size": 17014565
+      }
+    ]
+  },
+  "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/level_19.bundle": {
+    "size": 19752919,
+    "parts": [
+      {
+        "path": "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/level_19.bundle.part001",
+        "size": 19000000
+      },
+      {
+        "path": "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/level_19.bundle.part002",
+        "size": 752919
+      }
+    ]
+  },
+  "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/level_2.bundle": {
+    "size": 16958330,
+    "parts": [
+      {
+        "path": "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/level_2.bundle.part001",
+        "size": 16958330
+      }
+    ]
+  },
+  "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/level_20.bundle": {
+    "size": 17395069,
+    "parts": [
+      {
+        "path": "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/level_20.bundle.part001",
+        "size": 17395069
+      }
+    ]
+  },
+  "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/level_3.bundle": {
+    "size": 18537074,
+    "parts": [
+      {
+        "path": "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/level_3.bundle.part001",
+        "size": 18537074
+      }
+    ]
+  },
+  "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/level_4.bundle": {
+    "size": 19717145,
+    "parts": [
+      {
+        "path": "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/level_4.bundle.part001",
+        "size": 19000000
+      },
+      {
+        "path": "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/level_4.bundle.part002",
+        "size": 717145
+      }
+    ]
+  },
+  "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/level_5.bundle": {
+    "size": 17886442,
+    "parts": [
+      {
+        "path": "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/level_5.bundle.part001",
+        "size": 17886442
+      }
+    ]
+  },
+  "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/level_6.bundle": {
+    "size": 18626165,
+    "parts": [
+      {
+        "path": "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/level_6.bundle.part001",
+        "size": 18626165
+      }
+    ]
+  },
+  "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/level_7.bundle": {
+    "size": 17643890,
+    "parts": [
+      {
+        "path": "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/level_7.bundle.part001",
+        "size": 17643890
+      }
+    ]
+  },
+  "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/level_8.bundle": {
+    "size": 17843661,
+    "parts": [
+      {
+        "path": "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/level_8.bundle.part001",
+        "size": 17843661
+      }
+    ]
+  },
+  "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/level_9.bundle": {
+    "size": 20241932,
+    "parts": [
+      {
+        "path": "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/level_9.bundle.part001",
+        "size": 19000000
+      },
+      {
+        "path": "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/level_9.bundle.part002",
+        "size": 1241932
+      }
+    ]
+  },
+  "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/shared.bundle": {
+    "size": 213514220,
+    "parts": [
+      {
+        "path": "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/shared.bundle.part001",
+        "size": 19000000
+      },
+      {
+        "path": "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/shared.bundle.part002",
+        "size": 19000000
+      },
+      {
+        "path": "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/shared.bundle.part003",
+        "size": 19000000
+      },
+      {
+        "path": "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/shared.bundle.part004",
+        "size": 19000000
+      },
+      {
+        "path": "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/shared.bundle.part005",
+        "size": 19000000
+      },
+      {
+        "path": "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/shared.bundle.part006",
+        "size": 19000000
+      },
+      {
+        "path": "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/shared.bundle.part007",
+        "size": 19000000
+      },
+      {
+        "path": "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/shared.bundle.part008",
+        "size": 19000000
+      },
+      {
+        "path": "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/shared.bundle.part009",
+        "size": 19000000
+      },
+      {
+        "path": "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/shared.bundle.part010",
+        "size": 19000000
+      },
+      {
+        "path": "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/shared.bundle.part011",
+        "size": 19000000
+      },
+      {
+        "path": "files/__external__/wasmdotrip/Peak-Port@main/LevelBundles/shared.bundle.part012",
+        "size": 4514220
+      }
+    ]
+  }
+}
