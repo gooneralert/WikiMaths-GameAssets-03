@@ -1,0 +1,329 @@
+{
+  "slug": "dewdrop-dynasty",
+  "title": "Dewdrop Dynasty",
+  "type": "HTML",
+  "developer": "Goodgis",
+  "description": "Gun-jump your way through a buzzing world full of quirky monsters, tricky puzzles, and outlandish bosses in this fast-paced, lighthearted Metroidvania.",
+  "tags": [
+    "2D Platformer",
+    "Action",
+    "Action-Adventure",
+    "Cute",
+    "Exploration",
+    "Indie",
+    "Pixel Graphics"
+  ],
+  "controls": [
+    {
+      "action": "Left",
+      "keys": [
+        {
+          "key": "ArrowLeft",
+          "keyCode": 37
+        }
+      ]
+    },
+    {
+      "action": "Right",
+      "keys": [
+        {
+          "key": "ArrowRight",
+          "keyCode": 39
+        }
+      ]
+    },
+    {
+      "action": "Up",
+      "keys": [
+        {
+          "key": "ArrowUp",
+          "keyCode": 38
+        }
+      ]
+    },
+    {
+      "action": "Down",
+      "keys": [
+        {
+          "key": "ArrowDown",
+          "keyCode": 40
+        }
+      ]
+    },
+    {
+      "action": "Jump",
+      "keys": [
+        {
+          "key": "KeyZ",
+          "keyCode": 90
+        }
+      ]
+    },
+    {
+      "action": "Attack",
+      "keys": [
+        {
+          "key": "KeyX",
+          "keyCode": 88
+        }
+      ]
+    },
+    {
+      "action": "Roll",
+      "keys": [
+        {
+          "key": "KeyC",
+          "keyCode": 67
+        }
+      ]
+    },
+    {
+      "action": "Slot 1",
+      "keys": [
+        {
+          "key": "KeyA",
+          "keyCode": 65
+        }
+      ]
+    },
+    {
+      "action": "Slot 2",
+      "keys": [
+        {
+          "key": "KeyS",
+          "keyCode": 83
+        }
+      ]
+    },
+    {
+      "action": "Quick Map",
+      "keys": [
+        {
+          "key": "Tab",
+          "keyCode": 9
+        }
+      ]
+    },
+    {
+      "action": "Map",
+      "keys": [
+        {
+          "key": "KeyM",
+          "keyCode": 77
+        }
+      ]
+    },
+    {
+      "action": "Inventory",
+      "keys": [
+        {
+          "key": "KeyI",
+          "keyCode": 73
+        }
+      ]
+    },
+    {
+      "action": "Pause",
+      "keys": [
+        {
+          "key": "Escape",
+          "keyCode": 27
+        }
+      ]
+    }
+  ],
+  "gamepadControls": [
+    {
+      "action": "Left",
+      "buttons": [
+        14
+      ],
+      "axes": [
+        {
+          "index": 0,
+          "direction": -1
+        }
+      ]
+    },
+    {
+      "action": "Right",
+      "buttons": [
+        15
+      ],
+      "axes": [
+        {
+          "index": 0,
+          "direction": 1
+        }
+      ]
+    },
+    {
+      "action": "Up",
+      "buttons": [
+        12
+      ],
+      "axes": [
+        {
+          "index": 1,
+          "direction": -1
+        }
+      ]
+    },
+    {
+      "action": "Down",
+      "buttons": [
+        13
+      ],
+      "axes": [
+        {
+          "index": 1,
+          "direction": 1
+        }
+      ]
+    },
+    {
+      "action": "Jump",
+      "buttons": [
+        0
+      ]
+    },
+    {
+      "action": "Attack",
+      "buttons": [
+        2
+      ]
+    },
+    {
+      "action": "Roll",
+      "buttons": [
+        1
+      ]
+    },
+    {
+      "action": "Slot 1",
+      "buttons": [
+        6
+      ]
+    },
+    {
+      "action": "Slot 2",
+      "buttons": [
+        7
+      ]
+    },
+    {
+      "action": "Quick Map",
+      "buttons": [
+        4
+      ]
+    },
+    {
+      "action": "Inventory",
+      "buttons": [
+        8
+      ]
+    },
+    {
+      "action": "Pause",
+      "buttons": [
+        9
+      ]
+    }
+  ],
+  "controllerSupport": true,
+  "sourceId": "9647915a-b0c3-4ca7-88bc-c3cdbd28bab0",
+  "sourceVersion": "1.0.8",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/9647915a-b0c3-4ca7-88bc-c3cdbd28bab0/1.0.8/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/9647915a-b0c3-4ca7-88bc-c3cdbd28bab0/1.0.8/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/9647915a-b0c3-4ca7-88bc-c3cdbd28bab0/1.0.8/index.html",
+  "status": "done",
+  "sizeBytes": 293572757,
+  "assetCount": 12,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/9647915a-b0c3-4ca7-88bc-c3cdbd28bab0/1.0.8/.mp3",
+    "https://playobsidian.com/cdn/assets/html/9647915a-b0c3-4ca7-88bc-c3cdbd28bab0/1.0.8/godot.web.template_release.wasm32.wasm",
+    "https://playobsidian.com/cdn/assets/html/9647915a-b0c3-4ca7-88bc-c3cdbd28bab0/1.0.8/.ogg",
+    "https://playobsidian.com/cdn/assets/html/9647915a-b0c3-4ca7-88bc-c3cdbd28bab0/1.0.8/.wav",
+    "https://playobsidian.com/cdn/assets/html/9647915a-b0c3-4ca7-88bc-c3cdbd28bab0/1.0.8/godot.web.template_release.wasm32.worker.js",
+    "https://playobsidian.com/cdn/assets/html/9647915a-b0c3-4ca7-88bc-c3cdbd28bab0/1.0.8/godot.audio.worklet.js",
+    "https://playobsidian.com/cdn/assets/html/9647915a-b0c3-4ca7-88bc-c3cdbd28bab0/1.0.8/.worker.js",
+    "https://playobsidian.com/cdn/assets/html/9647915a-b0c3-4ca7-88bc-c3cdbd28bab0/1.0.8/.js",
+    "https://playobsidian.com/cdn/assets/html/9647915a-b0c3-4ca7-88bc-c3cdbd28bab0/1.0.8/.side.wasm",
+    "https://playobsidian.com/cdn/assets/html/9647915a-b0c3-4ca7-88bc-c3cdbd28bab0/1.0.8/.wasm",
+    "https://playobsidian.com/cdn/assets/html/9647915a-b0c3-4ca7-88bc-c3cdbd28bab0/1.0.8/.audio.worklet.js"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/9647915a-b0c3-4ca7-88bc-c3cdbd28bab0/1.0.8/.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/9647915a-b0c3-4ca7-88bc-c3cdbd28bab0/1.0.8/.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/9647915a-b0c3-4ca7-88bc-c3cdbd28bab0/1.0.8/godot.web.template_release.wasm32.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/9647915a-b0c3-4ca7-88bc-c3cdbd28bab0/1.0.8/godot.web.template_release.wasm32.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/9647915a-b0c3-4ca7-88bc-c3cdbd28bab0/1.0.8/.ogg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/9647915a-b0c3-4ca7-88bc-c3cdbd28bab0/1.0.8/.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/9647915a-b0c3-4ca7-88bc-c3cdbd28bab0/1.0.8/.wav",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/9647915a-b0c3-4ca7-88bc-c3cdbd28bab0/1.0.8/.wav",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/9647915a-b0c3-4ca7-88bc-c3cdbd28bab0/1.0.8/godot.web.template_release.wasm32.worker.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/9647915a-b0c3-4ca7-88bc-c3cdbd28bab0/1.0.8/godot.web.template_release.wasm32.worker.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/9647915a-b0c3-4ca7-88bc-c3cdbd28bab0/1.0.8/godot.audio.worklet.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/9647915a-b0c3-4ca7-88bc-c3cdbd28bab0/1.0.8/godot.audio.worklet.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/9647915a-b0c3-4ca7-88bc-c3cdbd28bab0/1.0.8/.worker.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/9647915a-b0c3-4ca7-88bc-c3cdbd28bab0/1.0.8/.worker.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/9647915a-b0c3-4ca7-88bc-c3cdbd28bab0/1.0.8/.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/9647915a-b0c3-4ca7-88bc-c3cdbd28bab0/1.0.8/.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/9647915a-b0c3-4ca7-88bc-c3cdbd28bab0/1.0.8/.side.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/9647915a-b0c3-4ca7-88bc-c3cdbd28bab0/1.0.8/.side.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/9647915a-b0c3-4ca7-88bc-c3cdbd28bab0/1.0.8/.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/9647915a-b0c3-4ca7-88bc-c3cdbd28bab0/1.0.8/.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/9647915a-b0c3-4ca7-88bc-c3cdbd28bab0/1.0.8/.audio.worklet.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/9647915a-b0c3-4ca7-88bc-c3cdbd28bab0/1.0.8/.audio.worklet.js",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T10:14:27.494Z",
+  "verifiedAt": "2026-10-26T10:14:37.894Z",
+  "verification": {
+    "external": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 8,
+    "title": "Dewdrop Dynasty",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 300,
+      "height": 150
+    },
+    "nonBlack": 0
+  }
+}
