@@ -477,5 +477,113 @@
         "size": 4514220
       }
     ]
+  },
+  "local-games/dewdrop-dynasty/Dewdrop Dynasty.pck": {
+    "size": 256274816,
+    "parts": [
+      {
+        "path": "local-games/dewdrop-dynasty/Dewdrop Dynasty.pck.part001",
+        "size": 90000000
+      },
+      {
+        "path": "local-games/dewdrop-dynasty/Dewdrop Dynasty.pck.part002",
+        "size": 90000000
+      },
+      {
+        "path": "local-games/dewdrop-dynasty/Dewdrop Dynasty.pck.part003",
+        "size": 76274816
+      }
+    ]
+  },
+  "local-games/pikuniku/Build/pikubog.data.unityweb": {
+    "size": 104624899,
+    "parts": [
+      {
+        "path": "local-games/pikuniku/Build/pikubog.data.unityweb.part001",
+        "size": 90000000
+      },
+      {
+        "path": "local-games/pikuniku/Build/pikubog.data.unityweb.part002",
+        "size": 14624899
+      }
+    ]
+  },
+  "local-games/portal-2/chunks/background.data": {
+    "size": 360813966,
+    "parts": [
+      {
+        "path": "local-games/portal-2/chunks/background.data.part001",
+        "size": 90000000
+      },
+      {
+        "path": "local-games/portal-2/chunks/background.data.part002",
+        "size": 90000000
+      },
+      {
+        "path": "local-games/portal-2/chunks/background.data.part003",
+        "size": 90000000
+      },
+      {
+        "path": "local-games/portal-2/chunks/background.data.part004",
+        "size": 90000000
+      },
+      {
+        "path": "local-games/portal-2/chunks/background.data.part005",
+        "size": 813966
+      }
+    ]
+  },
+  "local-games/portal-2/chunks/common.data": {
+    "size": 1043806823,
+    "parts": [
+      {
+        "path": "local-games/portal-2/chunks/common.data.part001",
+        "size": 90000000
+      },
+      {
+        "path": "local-games/portal-2/chunks/common.data.part002",
+        "size": 90000000
+      },
+      {
+        "path": "local-games/portal-2/chunks/common.data.part003",
+        "size": 90000000
+      },
+      {
+        "path": "local-games/portal-2/chunks/common.data.part004",
+        "size": 90000000
+      },
+      {
+        "path": "local-games/portal-2/chunks/common.data.part005",
+        "size": 90000000
+      },
+      {
+        "path": "local-games/portal-2/chunks/common.data.part006",
+        "size": 90000000
+      },
+      {
+        "path": "local-games/portal-2/chunks/common.data.part007",
+        "size": 90000000
+      },
+      {
+        "path": "local-games/portal-2/chunks/common.data.part008",
+        "size": 90000000
+      },
+      {
+        "path": "local-games/portal-2/chunks/common.data.part009",
+        "size": 90000000
+      },
+      {
+        "path": "local-games/portal-2/chunks/common.data.part010",
+        "size": 90000000
+      },
+      {
+        "path": "local-games/portal-2/chunks/common.data.part011",
+        "size": 90000000
+      },
+      {
+        "path": "local-games/portal-2/chunks/common.data.part012",
+        "size": 53806823
+      }
+    ]
   }
 }
